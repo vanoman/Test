@@ -1,5 +1,5 @@
 <?php
-
+// обновились
 $homedir = $_SERVER['DOCUMENT_ROOT'];
 require_once $homedir.'/config.php';
 require_once $homedir.'/Classes/PHPWord.php';

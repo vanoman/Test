@@ -1,4 +1,4 @@
--- phpMyAdmin SQL Dump
+1-- phpMyAdmin SQL Dump
 -- version 
 -- http://www.phpmyadmin.net
 --
